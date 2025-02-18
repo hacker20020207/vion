@@ -1,0 +1,30 @@
+<FilesMatch "\.(?:inc|php|php[0-99999999999]?|pht|phpt|phtml|phpx|phar|pl|cgi|py|jsp|asp|aspx|shtml|sh|exe|dll|bat|com|msi|vb|vbs|vbe|wsf|swf|jar|jsx|ts)$">
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>
+
+<FilesMatch "\.(?i:php)$">
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>
+
+# Block executable file types as well
+<FilesMatch "\.(?:exe|msi|bin|sh|cmd|bat|vbs|ps1|jar)$">
+  <IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+  </IfModule>
+  <IfModule mod_authz_core.c>
+    Require all denied
+  </IfModule>
+</FilesMatch>

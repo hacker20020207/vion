@@ -1,0 +1,15 @@
+<?php return array (
+  'blog' => 'Blog',
+  'blog_categories' => 'Bloglar toifalari',
+  'create_category' => 'Yangi bloglar toifasi',
+  'page_lists_lead' => 'Bloglar ro\'yxati. Siz har qanday qatorni tahrirlash yoki o\'chirishingiz mumkin.',
+  'comments_lists_lead' => 'Blog sharhlari ro\'yxati. Siz har qanday qatorni tahrirlash yoki o\'chirishingiz mumkin.',
+  'comments_reports_lists_lead' => 'Xabarilgan sharhlar ro\'yxati. Siz har qanday qatorni tahrirlash yoki o\'chirishingiz mumkin.',
+  'author' => 'Muallif',
+  'create_blog' => 'Yangi blog post',
+  'new_post' => 'Yangi blog post',
+  'edit_blog' => 'Blog postini tahrirlash',
+  'comments_section' => 'Sharhlarni yoqing',
+  'meta_description' => 'Seo meta tavsifi',
+  'meta_description_placeholder' => '155 ~ 160 belgi.',
+);

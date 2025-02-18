@@ -1,0 +1,18 @@
+<?php return array (
+  'role' => 'Роль',
+  'roles' => 'Роли',
+  'select_sections_level' => 'Выберите уровень разделов',
+  'page_lists_title' => 'Пользовательские роли',
+  'page_lists_lead' => 'Список ролей. Вы можете отредактировать или удалить любую строку.',
+  'new_page_title' => 'Новая роль',
+  'sections' => 'Разделы',
+  'new_page_lead' => 'Вы можете создать новую роль.',
+  'select_type' => 'Выберите тип',
+  'create_field_name_placeholder' => 'Пример: администратор',
+  'is_admin' => 'Доступ панели администратора',
+  'admin_roles' => 'Роли',
+  'admin_roles_list' => 'Роли списка',
+  'admin_roles_create' => 'Роли создают',
+  'admin_roles_edit' => 'Роли редактируют',
+  'admin_roles_delete' => 'Роли удаляют',
+);

@@ -1,0 +1,126 @@
+<?php return array (
+  'accepted' => 'Atribut qabul qilinishi kerak.',
+  'active_url' => 'Axribut haqiqiy URL manzil emas.',
+  'after' => 'The: Atribut keyingi sana bo\'lishi kerak: sana.',
+  'after_or_equal' => 'The: Atribut quyidagicha yoki unga teng bo\'lishi kerak: sana.',
+  'alpha' => 'Atribut faqat harflardan iborat bo\'lishi mumkin.',
+  'alpha_dash' => 'Atribute: Atribut faqat harflar, raqamlar, tirnoq va pastki chiziqlarda bo\'lishi mumkin.',
+  'alpha_num' => 'Atribut faqat harflar va raqamlardan iborat bo\'lishi mumkin.',
+  'array' => 'Atribut massiv bo\'lishi kerak.',
+  'before' => 'The: Atribut avval sana bo\'lishi kerak: sana.',
+  'before_or_equal' => 'The: Atribut quyidagicha yoki unga teng bo\'lishi kerak: sana.',
+  'between' => 
+  array (
+    'numeric' => 'The: Atribut o\'rtasida bo\'lishi kerak: min va max.',
+    'file' => 'Atribute: Atribut o\'rtasida bo\'lishi kerak: min va: Maks kilobaytes.',
+    'string' => 'Atribute: Atribut o\'rtasida bo\'lishi kerak: min va max belgilar.',
+    'array' => 'To: atributlar orasida: min va m maxli buyumlar.',
+  ),
+  'boolean' => 'The: Atribut maydoni to\'g\'ri yoki yolg\'on bo\'lishi kerak.',
+  'confirmed' => 'The: atributni tasdiqlash mos kelmaydi.',
+  'date' => 'The: Atribut haqiqiy sana emas.',
+  'date_equals' => 'Atribut: sanaga teng bo\'lgan sana bo\'lishi kerak.',
+  'date_format' => 'The: atribut formatga mos kelmaydi: formati.',
+  'different' => 'To: atribut va: boshqalari boshqacha bo\'lishi kerak.',
+  'digits' => 'Atribut quyidagi bo\'lishi kerak: raqamlar.',
+  'digits_between' => 'Atribute: Atribute o\'rtasida bo\'lishi kerak: min va max raqamlar.',
+  'dimensions' => 'The: atribut tasvir o\'lchamlariga ega.',
+  'distinct' => 'The: atribut maydonining nusxasi mavjud.',
+  'email' => 'Atribut to\'g\'ri elektron pochta manzili bo\'lishi kerak.',
+  'ends_with' => 'Atribut quyidagilardan biri bilan yakunlanishi kerak:: qiymatlar.',
+  'exists' => 'Tanlangan: atribut yaroqsiz.',
+  'file' => 'Atribut fayli bo\'lishi kerak.',
+  'filled' => 'Atributat maydoni qiymatga ega bo\'lishi kerak.',
+  'gt' => 
+  array (
+    'numeric' => 'Atribut: qiymatdan katta bo\'lishi kerak.',
+    'file' => 'The: atribut ko\'proq bo\'lishi kerak: kilobaytlar qiymati.',
+    'string' => 'Atribut: qiymat belgilaridan kattaroq bo\'lishi kerak.',
+    'array' => 'The: atributdan ko\'proq narsa bo\'lishi kerak: qiymat elementlari.',
+  ),
+  'gte' => 
+  array (
+    'numeric' => 'Atribut: Atribut ko\'proq yoki teng bo\'lishi kerak: qiymati.',
+    'file' => 'Atribute: Atribut ko\'proq yoki teng bo\'lishi kerak: kilobaytlar.',
+    'string' => 'Atribut: Atribut ko\'proq yoki teng bo\'lishi kerak: qiymat belgilari.',
+    'array' => 'Atributh: Atributga ega bo\'lishi kerak: qiymat elementlari yoki undan ko\'p.',
+  ),
+  'image' => 'Atribut tasvir bo\'lishi kerak.',
+  'in' => 'Tanlangan: atribut yaroqsiz.',
+  'in_array' => 'Atributat maydoni mavjud emas: boshqa.',
+  'integer' => 'Atribut butun son bo\'lishi kerak.',
+  'ip' => 'Atribute haqiqiy IP-manzil bo\'lishi kerak.',
+  'ipv4' => 'Atribut haqiqiy IPV4 manzili bo\'lishi kerak.',
+  'ipv6' => 'Atribut haqiqiy IPV6 manzili bo\'lishi kerak.',
+  'json' => 'The: atribut haqiqiy json satri bo\'lishi kerak.',
+  'lt' => 
+  array (
+    'numeric' => 'Atribut: qiymatdan kam bo\'lishi kerak.',
+    'file' => 'Atribut: Kilobayt qiymatidan kam bo\'lishi kerak.',
+    'string' => 'Atribute: Atributning kamroq bo\'lishi kerak: qiymat belgilari.',
+    'array' => 'The: Atribut quyidagilardan kam bo\'lishi kerak: qiymat elementlari.',
+  ),
+  'lte' => 
+  array (
+    'numeric' => 'Atribut quyidagidan kam yoki teng bo\'lishi kerak: qiymati.',
+    'file' => 'Atribut: Atribut kam yoki teng bo\'lishi kerak: Kilobaytlar.',
+    'string' => 'Atribute: Atribut kam yoki teng bo\'lishi kerak: qiymat belgilari.',
+    'array' => 'Attribute: Atribute: qiymat elementlari bo\'lishi kerak.',
+  ),
+  'max' => 
+  array (
+    'numeric' => 'Atribut quyidagicha bo\'lmasligi mumkin: Maks.',
+    'file' => 'Atribut: Maks kilobitesdan katta bo\'lmasligi mumkin.',
+    'string' => 'The: atribut bundan buyon katta bo\'lmasligi mumkin: maksimal belgilar.',
+    'array' => 'Atribute: Makr-moddalar: Maksimal buyumlar mavjud emas.',
+  ),
+  'mimes' => 'Atribut turi turdagi fayl bo\'lishi kerak:: qiymatlar.',
+  'mimetypes' => 'Atribut turi turdagi fayl bo\'lishi kerak:: qiymatlar.',
+  'min' => 
+  array (
+    'numeric' => 'Axborot kamida bo\'lishi kerak: min.',
+    'file' => 'The: atribut hech bo\'lmaganda: min kilobitlar.',
+    'string' => 'The: Atribut hech bo\'lmaganda: minalar.',
+    'array' => 'The: Atribut hech bo\'lmaganda: minalar.',
+  ),
+  'not_in' => 'Tanlangan: atribut yaroqsiz.',
+  'not_regex' => 'Atribut formati: Atribut formati noto\'g\'ri.',
+  'numeric' => 'Atribut raqami bo\'lishi kerak.',
+  'password' => 'Parol noto\'g\'ri.',
+  'password_or_username' => 'Parol yoki foydalanuvchi nomi noto\'g\'ri.',
+  'present' => 'The: Atribut maydoni hozir bo\'lishi kerak.',
+  'regex' => 'Atribut formati: Atribut formati noto\'g\'ri.',
+  'required' => 'Atributat maydoni talab qilinadi.',
+  'required_if' => 'The: Atribut maydoni qachon talab qilinadi: Boshqalar: qiymati.',
+  'required_unless' => 'The: Atribut maydoni: boshqa narsalar: qiymatlar mavjud.',
+  'required_with' => 'The: Atribut maydoni qachon talab qilinadi: qiymatlar mavjud.',
+  'required_with_all' => 'The: Atribut maydoni qachon: qiymatlar mavjud.',
+  'required_without' => 'The: Atribut maydoni qachon talab qilinadi: qiymatlar mavjud emas.',
+  'required_without_all' => 'The: Atribut maydonini hech birining mavjud bo\'lmaganida talab qilinadi.',
+  'same' => 'The: atribut va: boshqa mos kelishi kerak.',
+  'size' => 
+  array (
+    'numeric' => 'Atribut quyidagi bo\'lishi kerak: hajmi.',
+    'file' => 'Atribut quyidagilardan iborat bo\'lishi kerak: kilobaytlar.',
+    'string' => 'Atribut quyidagi bo\'lishi kerak: hajmi belgilari.',
+    'array' => 'Atribut quyidagilardan iborat bo\'lishi kerak: hajmi.',
+  ),
+  'starts_with' => 'The: atribut quyidagilardan biri bilan boshlanishi kerak: quyidagilar.',
+  'string' => 'Atribut satr bo\'lishi kerak.',
+  'timezone' => 'Atribut haqiqiy zona bo\'lishi kerak.',
+  'unique' => 'Atributh allaqachon olingan.',
+  'uploaded' => 'Atribute: Atribut yuklanmadi.',
+  'url' => 'Atribut formati: Atribut formati noto\'g\'ri.',
+  'uuid' => 'Atribut haqiqiy UUID bo\'lishi kerak.',
+  'custom' => 
+  array (
+    'attribute-name' => 
+    array (
+      'rule-name' => 'maxsus xabar',
+    ),
+  ),
+  'captcha' => 'Noto\'g\'ri CAPTCHA ...',
+  'attributes' => 
+  array (
+  ),
+);

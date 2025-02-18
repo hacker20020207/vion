@@ -1,0 +1,18 @@
+<?php return array (
+  'filters' => 'Фильтры',
+  'new_page_lead' => 'Вы можете создать новый фильтр.',
+  'edit_page_lead' => 'Вы можете отредактировать этот фильтр.',
+  'add_options' => 'Добавить параметры',
+  'option' => 'Вариант',
+  'filter_option' => 'Опция фильтра',
+  'tags_list_page_title' => 'Список фильтров',
+  'filter' => 'Ярлык',
+  'create_field_title_placeholder' => 'Выберите название.',
+  'filters_count' => 'Фильтры считаются',
+  'page_lists_lead' => 'Список фильтров. Вы можете отредактировать или удалить любую строку.',
+  'admin_filters' => 'Фильтры',
+  'admin_filters_list' => 'Список фильтров',
+  'admin_filters_create' => 'Фильтры создают',
+  'admin_filters_edit' => 'Фильтры редактируют',
+  'admin_filters_delete' => 'Фильтры удаляют',
+);

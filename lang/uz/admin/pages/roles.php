@@ -1,0 +1,18 @@
+<?php return array (
+  'role' => 'Rol',
+  'roles' => 'Rollar',
+  'select_sections_level' => 'Sekundlar darajasini tanlang',
+  'page_lists_title' => 'Foydalanuvchi rollar',
+  'page_lists_lead' => 'Rollar ro\'yxati. Siz har qanday qatorni tahrirlash yoki o\'chirishingiz mumkin.',
+  'new_page_title' => 'Yangi roli',
+  'sections' => 'Bo\'limlar',
+  'new_page_lead' => 'Siz yangi rolni yaratishingiz mumkin.',
+  'select_type' => 'Turini tanlang',
+  'create_field_name_placeholder' => 'Misol: admin',
+  'is_admin' => 'Ma\'mur paneliga kirish',
+  'admin_roles' => 'Rollar',
+  'admin_roles_list' => 'Rollar ro\'yxati',
+  'admin_roles_create' => 'Rollar yaratadi',
+  'admin_roles_edit' => 'Rollarni tahrirlash',
+  'admin_roles_delete' => 'Rollarni o\'chirish',
+);

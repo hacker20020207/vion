@@ -1,0 +1,15 @@
+<?php return array (
+  'tags_list_page_title' => 'Список тегов',
+  'tag' => 'Ярлык',
+  'tags' => 'Теги',
+  'title' => 'Заголовок',
+  'create_field_title_placeholder' => 'Выберите название.',
+  'tags_count' => 'Теги подсчитаны',
+  'new_page_lead' => 'Вы можете создать новый тег.',
+  'page_lists_lead' => 'Список тегов. Вы можете отредактировать или удалить любую строку.',
+  'admin_tags' => 'Теги',
+  'admin_tags_list' => 'Список тегов',
+  'admin_tags_create' => 'Теги создают',
+  'admin_tags_edit' => 'Теги редактируют',
+  'admin_tags_delete' => 'Теги удаляют',
+);

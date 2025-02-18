@@ -1,0 +1,15 @@
+<?php return array (
+  'tags_list_page_title' => 'Teglar ro\'yxati',
+  'tag' => 'Yorliq',
+  'tags' => 'Teglar',
+  'title' => 'Sarlavha',
+  'create_field_title_placeholder' => 'Sarlavha tanlang.',
+  'tags_count' => 'Teglar soni',
+  'new_page_lead' => 'Siz yangi tegni yaratishingiz mumkin.',
+  'page_lists_lead' => 'Teglar ro\'yxati. Siz har qanday qatorni tahrirlash yoki o\'chirishingiz mumkin.',
+  'admin_tags' => 'Teglar',
+  'admin_tags_list' => 'Teglar ro\'yxati',
+  'admin_tags_create' => 'Teglar yaratildi',
+  'admin_tags_edit' => 'Teglar Edit',
+  'admin_tags_delete' => 'Teglar o\'chiriladi',
+);

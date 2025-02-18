@@ -1,0 +1,16 @@
+<?php return array (
+  'discount_list_page_title' => 'Список скидок',
+  'discount' => 'Скидка',
+  'title' => 'Заголовок',
+  'tags_count' => 'Теги подсчитаны',
+  'new_page_lead' => 'Вы можете создать новую скидку.',
+  'parent_name' => 'Родительское имя',
+  'select_parent_name' => 'Выберите родительское имя',
+  'discount_count' => 'Категории подсчитаны',
+  'page_lists_lead' => 'Список скидки. Вы можете отредактировать или удалить любую строку.',
+  'sub_discount' => 'Подкорт',
+  'has_sub_discount' => 'Имеет субсонную',
+  'add_sub_discount' => 'Добавить субсонту',
+  'add' => 'Добавлять',
+  'remove' => 'Удалять',
+);

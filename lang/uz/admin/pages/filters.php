@@ -1,0 +1,18 @@
+<?php return array (
+  'filters' => 'Filtrlar',
+  'new_page_lead' => 'Siz yangi filtrni yaratishingiz mumkin.',
+  'edit_page_lead' => 'Siz ushbu filtrni tahrirlashingiz mumkin.',
+  'add_options' => 'Variantlar qo\'shing',
+  'option' => 'Imkoniyat',
+  'filter_option' => 'Filtr opsiyasi',
+  'tags_list_page_title' => 'Filtrlar ro\'yxati',
+  'filter' => 'Yorliq',
+  'create_field_title_placeholder' => 'Sarlavha tanlang.',
+  'filters_count' => 'Filtrlar soni',
+  'page_lists_lead' => 'Filtrlar ro\'yxati. Siz har qanday qatorni tahrirlash yoki o\'chirishingiz mumkin.',
+  'admin_filters' => 'Filtrlar',
+  'admin_filters_list' => 'Filtrlar ro\'yxati',
+  'admin_filters_create' => 'Filtrlar yaratadi',
+  'admin_filters_edit' => 'Filtrlar tahrirlash',
+  'admin_filters_delete' => 'Filtrlar o\'chiriladi',
+);
